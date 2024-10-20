@@ -1,0 +1,39 @@
+.container{
+    background-color: black;
+    border-radius: 30px;
+    padding: 10px;
+    text-align: center;
+}
+.container button{
+    font-size: 20px;
+    border-radius: 20px;
+    padding: 10px 20px;
+    outline: none;
+    border: none;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;   
+}
+.yellow{
+    background-color: yellow;
+}
+.orange{
+    background-color: orange;
+}
+.violet{
+    background-color: violet;
+}
+.pink{
+    background-color: pink;
+}
+.blue{
+    background-color: blue;
+}
+
+.card{
+    width: 100px;
+    height: 100px;
+}
